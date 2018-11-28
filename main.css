@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans');
 
-
+body {
+	background-color: rgb(51, 51, 51);
+	color: rgb(211, 209, 209);
+	margin-top: 10em;
+}
 
 .input-p {
 	height: 100vh;
@@ -16,10 +20,8 @@
 
 #style-input {
 	display: block;
-	height: 20vh;
 }
 
 #style-p {
 	display: none;
-	height: 20vh;
 }
