@@ -10,6 +10,7 @@ const putTextStyle = () => {
   const textEdit=textInput.value;
   styleInput.style.display='none';
   styleP.style.display='block';
+  textStyle.setAttribute('class', 'style-p col-10 offset-1 justify-content-center text-center')
 
   textStyle.innerHTML=textEdit;
 };
