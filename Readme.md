@@ -40,4 +40,4 @@ Para este proyecto se uso:
 
 ## Versión
 
-### Release V3.0.0
+### Release V3.1.0
