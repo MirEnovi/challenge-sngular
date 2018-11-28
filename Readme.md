@@ -17,7 +17,7 @@ Puedes folkear este repositorio si quieres trabajar con este repositorio y manda
 
 Para probar de manera local es necesario contar con:
 - El editor de codigo de tu preferencia.
-- Terminal (consla) Bash.
+- Terminal (consola) Bash.
 
 
 Guía de instalación:
