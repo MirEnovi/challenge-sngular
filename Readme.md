@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Esta es una palicación web que utiliza HTML, CSS y Javascript, para que cuando un usuario de click en el botón, los estilos del título deben cambiar, por ejemplo el color del texto o la tipografía.
+Esta es una palicación web que utiliza HTML, CSS y Javascript, para que cuando un usuario de click en el botón, los estilos del texto escrito en el input deberan cambiar, por ejemplo el color del texto o la tipografía.
 
 
 ## Guía de usuario
@@ -40,4 +40,4 @@ Para este proyecto se uso:
 
 ## Versión
 
-### Release V1.4.0
+### Release V2.0.0
