@@ -32,9 +32,9 @@ Y listo.
 ### Dependencias
 
 Para este proyecto se uso:
-- HTML 5.
+- HTML.
 - Javascript vainilla.
-- 
+- CSS.
 - [Bootstrap](https://getbootstrap.com/docs/4.1/components/buttons/).
 
 
